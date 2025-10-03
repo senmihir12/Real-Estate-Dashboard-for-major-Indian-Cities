@@ -29,7 +29,7 @@ It highlights **city-wise comparisons, property types, and the effect of feature
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](https://raw.githubusercontent.com/senmihir12/Real-Estate-Dashboard-for-major-Indian-Cities/images/images/real_estate_dashboard.png)
+![Dashboard Preview](real_estate_dashboard.png)
 
 ---
 
